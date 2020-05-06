@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63a51786-c483-4395-ab21-2b4566de9076" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.ipynb_checkpoints/main.py-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Data/Test/sience.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Guide.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Media/firefox_ekZaxYvkm9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Media/photo_2020-02-19_21-22-19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/ITS ALIVE-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ITS ALIVE-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITS ALIVE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ITS ALIVE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main.py.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Диплом Мананников Н.Д..docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../main.py.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../word1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../word1.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,10 +118,10 @@
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
     <state x="148" y="335" key="SettingsEditor/0.0.2560.1384@0.0.2560.1384" timestamp="1581602375744" />
-    <state x="342" y="517" key="com.intellij.ide.util.TipDialog" timestamp="1582654931917">
+    <state x="342" y="517" key="com.intellij.ide.util.TipDialog" timestamp="1584796067173">
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
-    <state x="342" y="517" key="com.intellij.ide.util.TipDialog/0.0.2560.1384@0.0.2560.1384" timestamp="1582654931917" />
+    <state x="342" y="517" key="com.intellij.ide.util.TipDialog/0.0.2560.1384@0.0.2560.1384" timestamp="1584796067173" />
     <state x="1089" y="610" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581602328346">
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
